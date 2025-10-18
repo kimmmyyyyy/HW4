@@ -1,0 +1,11 @@
+C:\Users\camelakimarcalas\source\repos\SimCard\SimCard\bin\Debug\SimCard.exe.config
+C:\Users\camelakimarcalas\source\repos\SimCard\SimCard\bin\Debug\SimCard.exe
+C:\Users\camelakimarcalas\source\repos\SimCard\SimCard\bin\Debug\SimCard.pdb
+C:\Users\camelakimarcalas\source\repos\SimCard\SimCard\obj\Debug\SimCard.csproj.AssemblyReference.cache
+C:\Users\camelakimarcalas\source\repos\SimCard\SimCard\obj\Debug\SimCard.Form1.resources
+C:\Users\camelakimarcalas\source\repos\SimCard\SimCard\obj\Debug\SimCard.Properties.Resources.resources
+C:\Users\camelakimarcalas\source\repos\SimCard\SimCard\obj\Debug\SimCard.csproj.GenerateResource.cache
+C:\Users\camelakimarcalas\source\repos\SimCard\SimCard\obj\Debug\SimCard.csproj.CoreCompileInputs.cache
+C:\Users\camelakimarcalas\source\repos\SimCard\SimCard\obj\Debug\SimCard.exe
+C:\Users\camelakimarcalas\source\repos\SimCard\SimCard\obj\Debug\SimCard.pdb
+C:\Users\camelakimarcalas\source\repos\SimCard\SimCard\obj\Debug\SimCard.Form2.resources
